@@ -6,11 +6,11 @@
 📫 Email: lnrdrdefreitas@gmail.com<br>
 🌍 Localização: Limeira, SP<br>
 
-# 🌐 Redes sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rodrigues-de-freitas-93a760200)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/leordefreitas)
+## 🌐 Redes sociais:
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rodrigues-de-freitas-93a760200)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/leordefreitas)
 
-# 💻 Tecnologias:
+## 💻 Tecnologias:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,7 +21,7 @@
 ![Next JS](https://img.shields.io/badge/nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-# 📂 Meus principais projetos:
+## 📂 Meus principais projetos:
 🔗 [E-commerce](https://github.com/leordefreitas/e-commerce)<br>
 🔗 [Book Social Network](https://github.com/leordefreitas/book-network-social)<br>
 🔗 [Assunto para Cristãos](https://assuntoparacristaos.com.br)<br>
@@ -31,6 +31,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=leordefreitas&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leordefreitas&theme=radical&hide_border=false&layout=compact)
 
-# 📖 Inspiração
+## 📖 Inspiração
 > “A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.”  
 > — Albert Einstein
