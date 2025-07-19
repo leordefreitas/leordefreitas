@@ -2,9 +2,9 @@
 👋 Olá! Eu sou o Leonardo Freitas<br>
 💻 Desenvolvedor Full Stack<br>
 🚀 Em constante evolução técnica e aprendizado de novas tecnologias<br>
-📚 Sistema da Informação<br>
-📫 Email: lnrdrdefreitas@gmail.com<br>
-🌍 Localização: Limeira, SP<br>
+📚 Sistemas da Informação<br>
+📫 lnrdrdefreitas@gmail.com<br>
+🌍 Limeira, SP<br>
 
 ## 🌐 Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rodrigues-de-freitas-93a760200)
@@ -27,10 +27,9 @@
 🔗 [Assunto para Cristãos](https://assuntoparacristaos.com.br)<br>
 🔗 [Goat Notes](https://github.com/leordefreitas/goat-notes)<br>
 
-## 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=leordefreitas&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=leordefreitas&theme=radical&hide_border=false&layout=compact)
-
 ## 📖 Inspiração
 > “A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.”  
 > — Albert Einstein
+
+## 📊 Estatística do GitHub:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=leordefreitas&theme=radical&hide_border=false&layout=compact)
