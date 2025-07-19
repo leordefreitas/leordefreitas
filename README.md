@@ -29,10 +29,8 @@
 
 # 📊 Estatísticas do GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=leordefreitas&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=leordefreitas&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leordefreitas&theme=radical&hide_border=false&layout=compact)
 
 ## 📖 Inspiração
-
 > “A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.”  
 > — Albert Einstein
