@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# Sobre mim:
 👋 Olá! Eu sou o Leonardo Freitas<br>
 💻 Desenvolvedor Full Stack<br>
 🚀 Em constante evolução técnica e aprendizado de novas tecnologias<br>
@@ -7,8 +7,8 @@
 🌍 Localização: Limeira, SP<br>
 
 ## 🌐 Redes sociais:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rodrigues-de-freitas-93a760200)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/leordefreitas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rodrigues-de-freitas-93a760200)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/leordefreitas)
 
 ## 💻 Tecnologias:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
