@@ -27,7 +27,7 @@
 🔗 [Assunto para Cristãos](https://assuntoparacristaos.com.br)<br>
 🔗 [Goat Notes](https://github.com/leordefreitas/goat-notes)<br>
 
-# 📊 Estatísticas do GitHub:
+## 📊 Estatísticas do GitHub:
 ![](https://github-readme-stats.vercel.app/api?username=leordefreitas&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leordefreitas&theme=radical&hide_border=false&layout=compact)
 
